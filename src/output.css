@@ -1001,6 +1001,9 @@
   .bg-\[url\(\'\/img\/banner\.jpg\'\)\] {
     background-image: url('/img/banner.jpg');
   }
+  .bg-\[url\(\'img\/banner\.jpg\'\)\] {
+    background-image: url('img/banner.jpg');
+  }
   .from-\[\#6366F1\] {
     --tw-gradient-from: #6366F1;
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
